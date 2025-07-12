@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! i'm Hasbi Abdullah 👋
+
+![Hasbi Abdullah](img/Black%20and%20White%20Simple%20Digital%20Marketing%20LinkedIn%20Banner%20(1).png)
 
 <!--
 **HasbiA6/HasbiA6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning mechine learning
+- 😊😊😊
+
+![good day](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXduc2Zya3hqb2dsc3hqYzlzNmNzcG9ydHVqdXBwbzc0Y3MxcWJmbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/71e2uFlpO2RpC02qRX/giphy.gif)
