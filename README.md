@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on **myskill**
 - 🌱 I’m currently learning mechine learning
 - 😊😊😊
 
