@@ -9,7 +9,7 @@
   🌱 I’m looking to collaborate on machine learning.<br>
   👯 I’m looking for help with optimizing database queries and understanding complex algorithms.<br>
   💬 Ask me about anything related to Python, R, SQL.<br>
-  📫 How to reach me:hasbiabdullah75571@gamil.com.<br>
+  📫 How to reach me: [**Gmail**](hasbiabdullah75571@gamil.com).<br>
   ⚡ Fun fact: i,m a beginner in data science.<br>
 </p>
 
@@ -25,7 +25,7 @@
 
 ---
 
-### 🤝 Mari Terhubung
+### 🤝 connect with me
 
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/hasbi-abdullah-4740902b9" target="_blank">
